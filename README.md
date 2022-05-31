@@ -2,10 +2,12 @@
 # Cheat Sheet - Git + Github | Dicas e Comandos para Git + Github
 
 -Abaixo vou explicar os comandos mais populares para usar o Git.
+
 -Below i ll explain the most popular commands to use Git.
 
-(As palavras entre "aspas" são apenas strings do nome de repositorios, arquivos ou diretórios que você desejar criar em seu projeto).
-(The words in "quotes" are just strings of the name of repositories, files or directories that you want to create in your project).
+-(As palavras entre "aspas" são apenas strings do nome de repositorios, arquivos ou diretórios que você desejar criar em seu projeto).
+
+-(The words in "quotes" are just strings of the name of repositories, files or directories that you want to create in your project).
 
 # BRANCH
 
